@@ -1,3 +1,9 @@
+/* Custom CSS to style disabled anchor element */
+.cta-btn[disabled] {
+  pointer-events: none;
+  opacity: 0.6;
+}
+
 /* Call to Action Button */
 .cta-btn {
   font-family: 'Russo One', sans-serif;
