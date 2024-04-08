@@ -1,7 +1,7 @@
 <svg width="434" height="434" viewBox="0 0 434 434" xmlns="http://www.w3.org/2000/svg">
   <style>
     #base {
-      fill: white;
+      fill: none;
     }
     #circle {
       fill: black;
@@ -15,7 +15,7 @@
     }
     @media (prefers-color-scheme: dark) {
       #base {
-        fill: black;
+        fill: none;
       }
       #circle {
         fill: white;
