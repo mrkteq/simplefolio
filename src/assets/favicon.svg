@@ -18,14 +18,14 @@
         fill: none;
       }
       #circle {
-        fill: white;
-        stroke: white;
+        fill: #fff;
+        stroke: #fff;
       }
       #letterm {
-        fill: white;
+        fill: #fff;
       }
       #lettert {
-        fill: white;
+        fill: #fff;
       }
     }
   </style>
