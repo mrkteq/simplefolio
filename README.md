@@ -1,9 +1,8 @@
 ## Portfolio
 
-![screenshot](/examples/screen.png)
+![screenshot](/screen.png)
 
-Original Source: https://github.com/cobiwave/simplefolio
-
+Template source: https://github.com/cobiwave/simplefolio
 
 ### In dev
 
