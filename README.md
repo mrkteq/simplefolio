@@ -2,7 +2,10 @@
 
 ![screenshot](/screen.png)
 
-Template source: https://github.com/cobiwave/simplefolio
+Full credit to Jacob
+© 2021 - Template developed by
+https://github.com/cobiwave
+Jacobo Martínez
 
 ### In dev
 
