@@ -1,4 +1,4 @@
-var words = ['Web', 'Software', 'Frontend', 'JavaScript', 'Fullstack'];
+var words = ['Web Developer.', 'Digital Media Specialist.'];
 var currentWordIndex = 0;
 var offset = 0;
 var forwards = true;
