@@ -1,0 +1,31 @@
+/* Style for the "Back to Top" button */
+.back-to-top {
+  position: fixed;
+  bottom: 20px;
+  right: 20px;
+  background-color: #333;
+  color: #fff;
+  padding: 10px 15px;
+  font-size: 14px;
+  text-decoration: none;
+  border-radius: 5px;
+  z-index: 1000; /* Ensures it floats above all sections */
+  opacity: 0;
+  pointer-events: none;
+  transition: opacity 0.3s;
+}
+
+.back-to-top:hover {
+  color: #fff;
+  background-image: linear-gradient(
+    135deg,
+    $primary-color 0%,
+    $secondary-color 100%
+  );
+}
+
+/* Display the button only when the user has scrolled down */
+body:has(.back-to-top):hover .back-to-top {
+  opacity: 1;
+  pointer-events: auto;
+}

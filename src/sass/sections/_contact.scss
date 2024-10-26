@@ -29,7 +29,7 @@
 
     &__text,
     a {
-      font-size: $mid-font-size;
+      // font-size: $mid-font-size;
 
       @include respond(phone) {
         font-size: 2rem;
